@@ -1,0 +1,12 @@
+{
+  "export_job_id": "7e618fa9-377d-44cb-8929-68ff726bb813",
+  "id_short": 536019,
+  "published_at": "2026-04-13T19:07:47Z",
+  "repo_name": "restaurant-verified-email-access-in-bakersfield-california-us-sample-536019",
+  "sample_asset_name": "beamstation_536019_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/536019/beamstation_536019_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "d92af29e45b8f7563d41807b541ddc9040ae9b075af48eb8db33fb88e68d38aa",
+  "sample_size_bytes": 97470,
+  "total_records": 201
+}
