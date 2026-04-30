@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Bakersfield, California, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 21 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `536019` |
 | Location | Bakersfield |
 | Category | Restaurants |
-| Full dataset size | 130 records |
-| Free sample size | 13 records (10.0%) |
-| Last export | 2026-04-22T10:53:05.233025+00:00 |
+| Full dataset size | 215 records |
+| Free sample size | 21 records (9.77%) |
+| Last export | 2026-04-29T12:11:26.090385+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-bakersfield-california-us-sample-536019/releases/download/sample-latest/beamstation_536019_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
